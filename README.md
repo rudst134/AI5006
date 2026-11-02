@@ -1,2 +1,4 @@
-# AI5006
+REQUIREMENTS
 
+- scikit
+- jupyter notebook
