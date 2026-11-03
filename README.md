@@ -1,6 +1,6 @@
 REQUIREMENTS
 
--> scikit
+-> scikit-learn
 -> jupyter notebook
 -> car.names file
 -> car.data file
